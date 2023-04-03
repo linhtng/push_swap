@@ -80,7 +80,7 @@ make
 * Example of executing ``checker`` with instructions received from ``push_swap`` :
 
 ```shell
-ARG="8 13 20 17 19"; ./push_swap $ARG | ./checker $ARG
+ARG="8 13 20 17 19"; ./push_swap $ARG | ./checker_Mac $ARG
 ```
 ---
 
