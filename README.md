@@ -12,14 +12,6 @@
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/linhtng/push_swap?color=blue" />
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/linhtng/push_swap?color=green" />
 </p>
-<h3 align="center">
-	<a href="#%EF%B8%8F-about">Challenge</a>
-	<span> · </span>
-	<a href="#%EF%B8%8F-usage">Installation</a>
-	<span> · </span>
-	<a href="#%EF%B8%8F-usage">Visualizer</a>
-	<span> · </span>
-</h3>
 
 ---
 
